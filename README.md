@@ -1,3 +1,5 @@
+This project demonstrates a series of best practices for improving the security of containerized applications deployed to Kubernetes Engine. You will deploy multiple instances of the same container image with a variety of security settings to illustrate the use of RBAC, security contexts, and AppArmor policies.  
+
 # Three examples of securing applications in Kubernetes Engine
 
 ## Table of Contents
